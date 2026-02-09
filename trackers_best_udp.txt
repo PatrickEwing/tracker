@@ -1103,6 +1103,7 @@ udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://ultra.zt.ua:6969/announce
 udp://unknownsite.de:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
