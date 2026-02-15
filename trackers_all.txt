@@ -1388,6 +1388,7 @@ https://agusiq-torrents.pl:6969/announce
 https://alpha.torrenttracker.nl/announce
 https://api.ipv4online.uk/announce
 https://atrack.pow7.com/announce
+https://bdremux.club/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://bittracker.nekosunevr.co.uk/announce
@@ -2654,6 +2655,7 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
+udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://node01.edge-team.cc:42069/announce
