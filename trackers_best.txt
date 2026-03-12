@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
@@ -8,13 +9,13 @@ http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
-http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
+http://open.acgtracker.com:1096/announce
 http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
@@ -35,6 +36,7 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -59,7 +61,7 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://bdremux.club/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -71,7 +73,6 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrentonline.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
@@ -83,14 +84,12 @@ https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.leaves.red/announce
 https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://tracker2.leaves.red/announce
 https://tracker3.leaves.red/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com:6969/announce
@@ -920,7 +919,6 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jabber.esiliati.org:6969/announce
@@ -1009,6 +1007,7 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.lanta.me:2710/announce
+udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rfc5746.mywaifu.best:6969/announce
@@ -1270,3 +1269,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
