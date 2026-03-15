@@ -19,5 +19,4 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://tracker1.520.jp/announce
-https://wsad.run.place/announce
+https://tracker3.leaves.red/announce
