@@ -55,7 +55,9 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.yqzuji.com/announce
+https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -71,7 +73,7 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -623,6 +625,7 @@ udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://54.39.48.3:6969/announce
 udp://57.128.230.226:80/announce
+udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://60.249.37.21:6969/announce
@@ -907,6 +910,7 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
+udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jabber.esiliati.org:6969/announce
@@ -1191,6 +1195,7 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
+udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
