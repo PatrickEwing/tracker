@@ -14,11 +14,11 @@ http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
-http://open.acgtracker.com:1096/announce
 http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
 http://s1130642.ha014.t.mydomain.zone/announce
@@ -59,6 +59,7 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
@@ -71,8 +72,7 @@ https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrentonline.cc/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
-https://tr.kxmp.cf/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr.torland.ga/announce
@@ -81,6 +81,7 @@ https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -917,7 +918,6 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jabber.esiliati.org:6969/announce
