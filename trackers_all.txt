@@ -3112,6 +3112,7 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker114514.top:11450/announce
 udp://tracker2.christianbro.pw:6969/announce
+udp://tracker2.dler.com/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
@@ -3175,6 +3176,7 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
