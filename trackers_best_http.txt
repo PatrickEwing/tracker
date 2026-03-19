@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://asiatorrent.giize.com:51413/announce
