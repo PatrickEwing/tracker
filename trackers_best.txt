@@ -1,12 +1,12 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
-http://asiatorrent.giize.com:51413/announce
+http://34.66.57.33:2710/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -19,9 +19,11 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
 http://s1130642.ha014.t.mydomain.zone/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -36,13 +38,13 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -56,6 +58,7 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.yqzuji.com/announce
 https://bdremux.club/announce
+https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -72,6 +75,8 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -986,6 +991,7 @@ udp://peerfect.org:6969/announce
 udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
 udp://psyco.fr:6969/announce
+udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
@@ -1023,7 +1029,6 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
-udp://t.overflow.biz:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tc.animereactor.ru:8082/announce
 udp://thagoat.rocks:6969/announce
