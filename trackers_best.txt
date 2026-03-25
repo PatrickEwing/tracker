@@ -2,12 +2,15 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
+http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
+http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -18,7 +21,6 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.x2k.ru/announce
-http://s1130639.ha009.t.mydomain.zone/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -46,7 +48,6 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://tracker9.bol.bg/announce
-http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.yqzuji.com/announce
@@ -55,16 +56,16 @@ https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
+https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
+https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
@@ -72,6 +73,7 @@ https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 udp://0205.uptm.ch:6969/announce
@@ -1216,7 +1218,6 @@ udp://unknownsite.de:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
-udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps02.net.orel.ru:80/announce
@@ -1230,6 +1231,7 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
+udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
@@ -1250,3 +1252,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
