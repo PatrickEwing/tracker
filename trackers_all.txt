@@ -106,6 +106,7 @@ http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
+http://1337.abcvg.info:443/announce
 http://138.124.183.78:6969/announce
 http://138.199.241.244/announce
 http://139.202.228.28:6969/announce
@@ -1018,6 +1019,7 @@ http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://smurfsoft.com:6969/announce
+http://sound-park.world:443/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
@@ -1333,6 +1335,7 @@ http://v6-tracker.0g.cx:6969/announce
 http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
+http://w.wwwww.wtf:443/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com/announce
 http://wegkxfcivgx.ydns.eu/announce
