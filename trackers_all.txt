@@ -1021,6 +1021,7 @@ http://siambit.com/announce
 http://siambit.org/announce
 http://smurfsoft.com:6969/announce
 http://sound-park.world:443/announce
+http://sparkle.ghostchu-services.top:443/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
@@ -1164,9 +1165,11 @@ http://tracker.foreverpirates.co:443/announce
 http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info/announce
+http://tracker.gcrenwp.top:443/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
+http://tracker.ghostchu-services.top:443/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.guguan.000.pe/announce
@@ -1196,6 +1199,7 @@ http://tracker.leechshield.link:443/announce
 http://tracker.leena.network:6969/announce
 http://tracker.lelux.fi/announce
 http://tracker.letpo.com/announce
+http://tracker.lilithraws.org:443/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.linvk.com:443/announce
