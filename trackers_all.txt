@@ -1084,6 +1084,7 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
+http://tr.nyacat.pw:443/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-rh.zhuqiy.eu.org/announce
@@ -1213,6 +1214,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.moeblog.cn:443/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.morian.icu:443/announce
 http://tracker.moxing.party:6969/announce
@@ -1225,6 +1227,7 @@ http://tracker.novalayer.org:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.nyaa.vc:6969/announce
 http://tracker.nyaa2p.i2p/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.nyap2p.com:8080/announce
@@ -1299,6 +1302,7 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
