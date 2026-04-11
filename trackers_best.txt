@@ -15,7 +15,6 @@ http://nagios.tks.sumy.ua/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -23,7 +22,6 @@ http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
@@ -43,10 +41,8 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://uatracker.net/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
-https://agsvpt.trackers.work/announce
 https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
 https://edge-team.cc/announce
@@ -57,10 +53,8 @@ https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
-https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
@@ -1257,3 +1251,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
