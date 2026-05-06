@@ -983,7 +983,6 @@ udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
-udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -1025,6 +1024,7 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
+udp://tracker.edkj.club:6969/announce
 udp://tracker.emule.best:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
@@ -1088,6 +1088,7 @@ udp://tracker.sharebro.in:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
@@ -1103,6 +1104,7 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
+udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.tricitytorrents.com:2710/announce
