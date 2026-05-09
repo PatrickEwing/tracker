@@ -1,9 +1,9 @@
 http://125.227.79.123/announce
 http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
+http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
@@ -46,10 +46,10 @@ http://tracker9.bol.bg/announce
 http://uatracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -63,7 +63,6 @@ https://tracker.bt4g.com/announce
 https://tracker.kawaii.id/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
@@ -799,6 +798,7 @@ udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://91.238.104.240:6969/announce
 udp://91.98.161.68:6969/announce
+udp://92.112.126.44:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
