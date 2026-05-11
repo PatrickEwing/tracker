@@ -82,6 +82,7 @@ udp://143.198.64.177:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://145.223.96.109:8000/announce
+udp://147.45.74.251:6969/announce
 udp://147.45.77.75:6969/announce
 udp://147job.com:6969/announce
 udp://148.113.168.115:6969/announce
@@ -259,6 +260,7 @@ udp://189.0.78.33:6969/announce
 udp://189.18.126.32:6969/announce
 udp://189.18.126.49:6969/announce
 udp://189.18.127.125:6969/announce
+udp://189.18.127.21:6969/announce
 udp://189.18.127.57:6969/announce
 udp://189.18.162.106:6969/announce
 udp://189.18.162.54:6969/announce
@@ -1172,6 +1174,7 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
+udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
