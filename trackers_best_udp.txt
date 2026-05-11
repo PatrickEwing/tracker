@@ -793,7 +793,6 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
-udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
@@ -1173,7 +1172,6 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
-udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce

@@ -2,6 +2,7 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
+http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -28,12 +29,10 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
-http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -48,7 +47,6 @@ http://uatracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
 https://bt.beatrice-raws.org/announce
-https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -69,6 +67,7 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
@@ -868,7 +867,6 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
-udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
@@ -1248,7 +1246,6 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
-udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
