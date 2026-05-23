@@ -762,7 +762,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
@@ -959,7 +958,6 @@ udp://shadowshq.yi.org:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
-udp://soundmovie.ru:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
