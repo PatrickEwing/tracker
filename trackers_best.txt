@@ -6,15 +6,16 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://buny.uk:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
-http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -29,6 +30,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.openzim.org/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
@@ -59,6 +61,7 @@ https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
+https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
@@ -1273,3 +1276,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
