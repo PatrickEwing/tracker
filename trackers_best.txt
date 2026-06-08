@@ -1,6 +1,7 @@
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
+http://93.88.129.16/announce
 http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -14,7 +15,6 @@ http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -43,6 +43,7 @@ http://tracker5.torrentino.com/announce
 http://tracker9.bol.bg/announce
 http://uatracker.net/announce
 http://www.wareztorrent.com/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
@@ -51,7 +52,6 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
-https://torrent.opiums.eu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -233,6 +233,7 @@ udp://177.172.65.102:6969/announce
 udp://177.172.65.168:6969/announce
 udp://177.172.66.120:6969/announce
 udp://177.172.66.210:6969/announce
+udp://177.172.66.223:6969/announce
 udp://177.172.66.2:6969/announce
 udp://177.172.67.13:6969/announce
 udp://177.172.67.247:6969/announce
@@ -1210,6 +1211,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
