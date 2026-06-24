@@ -870,6 +870,7 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
+udp://jabber.esiliati.org:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
