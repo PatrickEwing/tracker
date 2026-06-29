@@ -4,14 +4,15 @@ http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
-http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
 http://i.bandito.org/announce
+http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
@@ -67,7 +68,6 @@ https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://opentracker.co/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
 https://t.213891.xyz/announce
@@ -85,6 +85,7 @@ https://tracker.moviesdb.top/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.tvgc.win/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://www.wareztorrent.com/announce
@@ -1075,7 +1076,6 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
-udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
